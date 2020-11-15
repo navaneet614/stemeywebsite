@@ -37,7 +37,7 @@ import { Nav } from "react-bootstrap";
 
 export default function App() {
   return (
-    <Router>
+    <Router path={process.env.PUBLIC_URL + '/'}>
 
       <div>
         {/* A <Switch> looks through its children <Route>s and
