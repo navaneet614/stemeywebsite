@@ -4,27 +4,24 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-import SND from "./SND";
 import Navbar from "./Navbar";
 import Footer from './Footer';
 import Home from "./Home";
-import NewTeam from "./NewTeam/NewTeam";
 import NewClasses from "./Classes/NewClasses";
 import ChemistryClass from "./Classes/Chemistry"; import BiologyClass from "./Classes/Biology";
-import NeuroscienceClass from "./Classes/Neuroscience"; import MathClass from "./Classes/Math";
+import MathClass from "./Classes/Math";
 import PhysicsClass from "./Classes/Physics"; import CodingClass from "./Classes/Coding";
 
-import AnimalCellLab from "./Labs/AnimalCellLab"; import PlantCellLab from "./Labs/PlantCellLab";
+// import AnimalCellLab from "./Labs/AnimalCellLab"; 
+import PlantCellLab from "./Labs/PlantCellLab";
 
 import Biology from "./NewTeam/Biology"; import Chemistry from "./NewTeam/Chemistry";
-import Neuroscience from "./NewTeam/Neuroscience"; import Math from "./NewTeam/Math";
 import Physics from "./NewTeam/Physics"; import Coding from "./NewTeam/Coding";
 import Podcast from "./NewTeam/Podcast"; import Events from "./NewTeam/Events";
+import Math from "./NewTeam/Math"; 
 import Tech from "./NewTeam/Tech";
 import Join from "./Join";
-import Login from "./Login";
 import Discord from "./Discord";
-import Donate from "./Donate";
 import Contact from "./Contact";
 import STEMWorld from "./STEMWorld";
 import STEMTober from "./STEMTober";
@@ -32,12 +29,12 @@ import STEMSpeakers from "./STEMSpeakers";
 import Sponsorship from "./Sponsorship";
 import Executives from "./NewTeam/Executives";
 import About from "./About";
-import { Nav } from "react-bootstrap";
+
 
 
 export default function App() {
   return (
-    <Router path={"https://navaneet614.github.io/stemeywebsite" + '/'}>
+    <Router>
 
       <div>
         {/* A <Switch> looks through its children <Route>s and
@@ -55,9 +52,7 @@ export default function App() {
           <Route path="/chemistry">
             <Chemistry />
           </Route>
-          <Route path="/neuroscience">
-            <Neuroscience />
-          </Route>
+
           <Route path="/math">
             <Math />
           </Route>
@@ -81,10 +76,7 @@ export default function App() {
             <Discord />
           </Route>
 
-          <Route path="/partnerships">
-            < SND />
-          </Route>
-
+          
           <Route path="/stemworld">
 
             < STEMWorld />
@@ -93,14 +85,7 @@ export default function App() {
 
             < STEMTober />
           </Route>
-          <Route path="/nerdcon">
-
-            < STEMWorld />
-          </Route>
-          <Route path="/login">
-
-            < Login />
-          </Route>
+         
           <Route path="/stemworldspeakers">
 
             < STEMSpeakers />
@@ -121,9 +106,7 @@ export default function App() {
           <Route path="/math-class">
             <MathClass />
           </Route>
-          <Route path="/neuroscience-class">
-            <NeuroscienceClass />
-          </Route>
+         
           <Route path="/physics-class">
             <PhysicsClass />
           </Route>
@@ -131,9 +114,9 @@ export default function App() {
             <CodingClass />
           </Route>
 
-          <Route path="/animalcell-lab">
+          {/* <Route path="/animalcell-lab">
             <AnimalCellLab />
-          </Route>
+          </Route> */}
           <Route path="/plantcell-lab">
             <PlantCellLab />
           </Route>
@@ -146,11 +129,6 @@ export default function App() {
             <About />
           </Route>
 
-          <Route path="/donate">
-
-            <Donate />
-          </Route>
-
 
           <Route path="/contact">
 
@@ -158,9 +136,6 @@ export default function App() {
           </Route>
 
 
-          <Route path="/team">
-            <NewTeam />
-          </Route>
           <Route path="/classes">
 
             <NewClasses />
