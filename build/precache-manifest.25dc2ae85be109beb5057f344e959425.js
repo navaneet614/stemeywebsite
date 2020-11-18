@@ -1,27 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "984d2a10d08c06e4691a0b2b12a6ef06",
+    "revision": "e7a64d6af2cc570a2a7b16d157679cdd",
     "url": "/stemeywebsite/index.html"
   },
   {
-    "revision": "95a81d39032c05898788",
-    "url": "/stemeywebsite/static/css/main.efd042a7.chunk.css"
+    "revision": "4173fcb97f72946713ac",
+    "url": "/stemeywebsite/static/css/main.0478e8a0.chunk.css"
   },
   {
-    "revision": "3d52fc9fecc7432654bf",
-    "url": "/stemeywebsite/static/js/2.23e09403.chunk.js"
+    "revision": "8724649f6b011e762dad",
+    "url": "/stemeywebsite/static/js/2.d7f487b2.chunk.js"
   },
   {
     "revision": "65ebd420f4faa6305eed6eeb0786b0ac",
-    "url": "/stemeywebsite/static/js/2.23e09403.chunk.js.LICENSE.txt"
+    "url": "/stemeywebsite/static/js/2.d7f487b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95a81d39032c05898788",
-    "url": "/stemeywebsite/static/js/main.c65de815.chunk.js"
+    "revision": "4173fcb97f72946713ac",
+    "url": "/stemeywebsite/static/js/main.f630829f.chunk.js"
   },
   {
     "revision": "ec027aedfac0d542dd5d",
     "url": "/stemeywebsite/static/js/runtime-main.c67a5424.js"
+  },
+  {
+    "revision": "4d0480a954f30cc277d46fb2b8cba03f",
+    "url": "/stemeywebsite/static/media/1.4d0480a9.png"
+  },
+  {
+    "revision": "fa9b8e20a562e6678f5307dab67bf7ec",
+    "url": "/stemeywebsite/static/media/2.fa9b8e20.png"
+  },
+  {
+    "revision": "e113db46af6f908f97a89d5e0b2ff916",
+    "url": "/stemeywebsite/static/media/3.e113db46.png"
+  },
+  {
+    "revision": "add328e2bbbd2386a18f8fb8827f6945",
+    "url": "/stemeywebsite/static/media/4.add328e2.png"
+  },
+  {
+    "revision": "15e067302c6dd54e9458c45b857221c0",
+    "url": "/stemeywebsite/static/media/5.15e06730.png"
+  },
+  {
+    "revision": "3a9c0aaf34d5f742d344bb9ac88dc811",
+    "url": "/stemeywebsite/static/media/6.3a9c0aaf.png"
   },
   {
     "revision": "c4a55bbdfa072bb0559185d3c2b665d0",
@@ -42,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "144eb391d34dd2bbfc59b700e726dbee",
     "url": "/stemeywebsite/static/media/ClaireJin.144eb391.png"
-  },
-  {
-    "revision": "57772cd6ca74d20df7e35dbc9568732d",
-    "url": "/stemeywebsite/static/media/ClassPoster.57772cd6.png"
   },
   {
     "revision": "cbddf6609eb2f993d23dad3317f58653",
@@ -84,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/Krishnedu.fc09be0c.jpg"
   },
   {
-    "revision": "bac58cd35897570bae7e13f47611922c",
-    "url": "/stemeywebsite/static/media/Labs.bac58cd3.png"
+    "revision": "98584d400b10c53e71332fbe5ab0d467",
+    "url": "/stemeywebsite/static/media/Lab.98584d40.png"
   },
   {
     "revision": "df9f72124433dfbe8eedeed0c605cc1e",
@@ -104,10 +124,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/NewStemeyLogo.85d4be53.png"
   },
   {
-    "revision": "657bacbaa86e1577284494d6bb61508b",
-    "url": "/stemeywebsite/static/media/Newtons-cradle.657bacba.png"
-  },
-  {
     "revision": "af49f597169250b31a5536b7ff9de9cb",
     "url": "/stemeywebsite/static/media/Physics.af49f597.png"
   },
@@ -120,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/SetTheory.6cb0cf93.png"
   },
   {
-    "revision": "2d34e08eccdddc6d26ba05a8daa71b08",
-    "url": "/stemeywebsite/static/media/Tutor.2d34e08e.png"
+    "revision": "2287f0ab154f9f5d91ccf407e3790c1c",
+    "url": "/stemeywebsite/static/media/Tutoring.2287f0ab.png"
   },
   {
     "revision": "6683513549951195bb60d3e6c0c8cfb8",
@@ -156,16 +172,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/amynam.25fc3f07.jpg"
   },
   {
-    "revision": "4464de1c1de6e50cd7c7a3290fd26b73",
-    "url": "/stemeywebsite/static/media/animalcell.4464de1c.png"
-  },
-  {
     "revision": "e837f86fc677f552f70099d0acca3cf0",
     "url": "/stemeywebsite/static/media/annazhao.e837f86f.jpeg"
-  },
-  {
-    "revision": "0508e60caf571151ac047472799f0c64",
-    "url": "/stemeywebsite/static/media/antarexxa.0508e60c.jpeg"
   },
   {
     "revision": "b483cd17f3ae632abe326ca777cb1481",
@@ -180,20 +188,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/arushi.e975e549.jpeg"
   },
   {
-    "revision": "6cf4c025d995a961db9f6185e8f3477c",
-    "url": "/stemeywebsite/static/media/aryan.6cf4c025.JPG"
-  },
-  {
     "revision": "6073aeea29f00e31daa9d62bd307be8b",
     "url": "/stemeywebsite/static/media/aryan2.6073aeea.jpg"
   },
   {
     "revision": "d51a42cf3a8f05f0605228fbeef7ddcf",
     "url": "/stemeywebsite/static/media/avery.d51a42cf.jpeg"
-  },
-  {
-    "revision": "be0bb7c20551b1e93a478e731d8f606c",
-    "url": "/stemeywebsite/static/media/beaker-atom.be0bb7c2.png"
   },
   {
     "revision": "36bea41126f103910fc0d694feb81455",
@@ -248,10 +248,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/davidhan.1709e2d8.JPG"
   },
   {
-    "revision": "598b0aac8271820dcd0a66f48f0d414e",
-    "url": "/stemeywebsite/static/media/deven.598b0aac.png"
-  },
-  {
     "revision": "1c8eeb52f2ce25762eb9016a9b9ef332",
     "url": "/stemeywebsite/static/media/diana.1c8eeb52.jpg"
   },
@@ -274,10 +270,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "81c2419fc3dc42fd04ed132c68c90eec",
     "url": "/stemeywebsite/static/media/fiona.81c2419f.png"
-  },
-  {
-    "revision": "440ac5d480440b119bfd3ed8c541d053",
-    "url": "/stemeywebsite/static/media/genetics.440ac5d4.png"
   },
   {
     "revision": "cc3f1c5b1db2ed31da0e2a23f55f1032",
@@ -324,10 +316,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/kylie.e2b29375.jpeg"
   },
   {
-    "revision": "7b6256b710ffb52be617390c6aac82b0",
-    "url": "/stemeywebsite/static/media/lemonslife.7b6256b7.jpeg"
-  },
-  {
     "revision": "5c48866968d7a9337d2a384f820c4de3",
     "url": "/stemeywebsite/static/media/lin.5c488669.jpg"
   },
@@ -348,12 +336,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/marksandey.dccbc76c.png"
   },
   {
-    "revision": "2f8155254d63c69f7d3e76a636746943",
-    "url": "/stemeywebsite/static/media/mip.2f815525.png"
-  },
-  {
     "revision": "fd33a09844febbe64f527a6791645b9a",
     "url": "/stemeywebsite/static/media/navaneet.fd33a098.jpg"
+  },
+  {
+    "revision": "dd6555f20d757ba5335702f51f4c4901",
+    "url": "/stemeywebsite/static/media/newstemworld.dd6555f2.png"
   },
   {
     "revision": "7b6b8dcc8cf52a942eeeab0acdb1b01b",
@@ -376,10 +364,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/priyanka.eeb86363.jpeg"
   },
   {
-    "revision": "ce6096b6d5aad868f68e76c87ab1fa76",
-    "url": "/stemeywebsite/static/media/readwithkids.ce6096b6.png"
-  },
-  {
     "revision": "12ee663a6f1213dcbfe7be16e6c3fb05",
     "url": "/stemeywebsite/static/media/sakshi.12ee663a.png"
   },
@@ -390,22 +374,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2816078bae30b80f98fdb9d150cb9da6",
     "url": "/stemeywebsite/static/media/sarahchang.2816078b.jpg"
-  },
-  {
-    "revision": "729e84eef0ad5a46d1de077c73950607",
-    "url": "/stemeywebsite/static/media/schmahl.729e84ee.jpg"
-  },
-  {
-    "revision": "354e87f9b6cd9152c200ca8c2c815fdf",
-    "url": "/stemeywebsite/static/media/selfie.354e87f9.jpeg"
-  },
-  {
-    "revision": "1432b4f87ff31c23179e7848650c20ab",
-    "url": "/stemeywebsite/static/media/simply.1432b4f8.png"
-  },
-  {
-    "revision": "61d6e6ff5c24ee257e4a1dfb8a7bed0d",
-    "url": "/stemeywebsite/static/media/solveit.61d6e6ff.jpg"
   },
   {
     "revision": "0d3f1fe0da11898ca402af265de2a592",
@@ -424,10 +392,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stemeywebsite/static/media/srishti.0e6b3f9e.jpeg"
   },
   {
-    "revision": "514c8a60f297d2fdf6aa3d95780ea62b",
-    "url": "/stemeywebsite/static/media/stemworldlogo.514c8a60.png"
-  },
-  {
     "revision": "f6a34aa98fa74c18220329e17f379ac1",
     "url": "/stemeywebsite/static/media/tanton.f6a34aa9.jpg"
   },
@@ -442,14 +406,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d2ec9d06d053a89a024c3f4df130b14",
     "url": "/stemeywebsite/static/media/tiffanyu.3d2ec9d0.jpeg"
-  },
-  {
-    "revision": "eee5a5d9f6059554647a82e0f1d0eaf2",
-    "url": "/stemeywebsite/static/media/vijaya.eee5a5d9.jpg"
-  },
-  {
-    "revision": "85f926377517ba44edbd7f5a28b1fdfd",
-    "url": "/stemeywebsite/static/media/wlf.85f92637.png"
   },
   {
     "revision": "8bcea5aea5f7b3dc2216af2a8bc7f79f",
